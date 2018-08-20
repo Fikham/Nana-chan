@@ -25,7 +25,7 @@ if($message['type']=='sticker')
 							'messages' => array(
 								array(
 										'type' => 'text',									
-										'text' => 'Terima kasih stickernya (cony kiss).'										
+										'text' => 'Terima kasih stickernya (๑•̀ㅁ•́๑)✧'										
 									
 									)
 							)
@@ -49,7 +49,7 @@ if($url['result'] == 404)
 							'messages' => array(
 								array(
 										'type' => 'text',					
-										'text' => 'mulutnya tolong dong dijaga gausah kaya mulut orang ga berpendidikan (brr)'
+										'text' => 'mulutnya tolong dong dijaga gausah kaya mulut orang ga berpendidikan (＃｀д´)ﾉ'
 									)
 							)
 						);
@@ -66,7 +66,7 @@ if($url['result'] != 100)
 							'messages' => array(
 								array(
 										'type' => 'text',					
-										'text' => 'Maaf '.$profil->displayName.' Server Nana sedang sibuk sekarang (doze off).'
+										'text' => 'Gomenasai '.$profil->displayName.' Server Nana sedang sibuk sekarang (ʘ言ʘ╬)'
 									)
 							)
 						);
